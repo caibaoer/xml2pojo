@@ -1,0 +1,1 @@
+https://github.com/caibaoer/xml2pojo.git
